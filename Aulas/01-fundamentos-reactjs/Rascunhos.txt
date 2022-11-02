@@ -6,3 +6,12 @@ Jsx é um componentes que traz um html dentro dele.
 
 Aula 6 propriedades 
 
+Props e como puxar as variaveis dentro de um html 
+
+Aulas 7 modules 
+
+conhecer o desenvolmento de um feed 
+conseguir fazer o fundo ficar escuro e realziar um header com logo apenas
+-- no react não é feita importação do css no html, essas importaçôes sempre vao partir dos arquivos java script
+ escopo de CSS
+ no react não é usado Class como no html, é usado ClassName, é a mesma coisa mais é pro JS nao se perder
