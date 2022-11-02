@@ -1,11 +1,23 @@
-
-
-function App() {
+import { Post } from "./Post"
+export function App() {
   
 
   return (
-    <p> Hello World!</p>
+    <div>
+
+      <Post/>
+
+    </div>
   )
 }
 
-export default App
+
+
+
+
+
+
+
+
+
+// componente no React nada mais é que uma function que retorna um html e é identificado com JSX (Js mais XML(html))
