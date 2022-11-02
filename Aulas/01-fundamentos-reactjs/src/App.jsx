@@ -1,13 +1,25 @@
-import { Post } from "./Post"
+import { Post } from './Post';
 export function App() {
   
 
   return (
     <div>
-
+      <Post   
+       author="YURI RAMOS"
+       content="loremiasuhdfiusahdiusahdiuhsaiudhiusahdiuhsaiudhisuahdiusasiuaduisahi"
+       />
+      <Post
+       
+       author="Yago RAMOS"
+       content="loremiasuhdfiusahdiusahdiuhsaiudhiusahdiuhsaiudhisuahdiusasiuaduisahi"
+       
+      />
       <Post/>
-
-    </div>
+      <Post/>
+      <Post/>
+      <Post/>
+      
+      </div>
   )
 }
 

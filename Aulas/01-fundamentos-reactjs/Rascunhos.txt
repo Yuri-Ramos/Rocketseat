@@ -3,3 +3,6 @@ Aula 5 o que aprendemos
 vimos sobre os componentes e como ele sao exportados com dafault e com as {}
 
 Jsx é um componentes que traz um html dentro dele.
+
+Aula 6 propriedades 
+
