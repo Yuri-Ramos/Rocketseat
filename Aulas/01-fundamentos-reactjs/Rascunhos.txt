@@ -15,3 +15,7 @@ conseguir fazer o fundo ficar escuro e realziar um header com logo apenas
 -- no react não é feita importação do css no html, essas importaçôes sempre vao partir dos arquivos java script
  escopo de CSS
  no react não é usado Class como no html, é usado ClassName, é a mesma coisa mais é pro JS nao se perder
+
+ aula 8 
+
+estilos globais que serão compartilhados com todos as telas 
